@@ -1,1 +1,1 @@
-# colors-lamp
+# Colors LAMP Lab
