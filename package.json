@@ -8,6 +8,6 @@
   },
   "scripts": {
     "test": "jest",
-    "lint": "eslint ."
+    "lint": "npx eslint ."
   }
 }
